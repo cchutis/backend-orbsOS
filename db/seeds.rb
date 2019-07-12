@@ -14,5 +14,4 @@ Task.create(activity: "Put on clothes", description: "It's cold outside don't fr
 Task.create(activity: "Take out the garbage", description: "It smells.")
 Task.create(activity: "Walk the dog", description: "He's 'bouta poop hurry")
 
-User.create(name: 'Kevin', location: 'US', photo: 'kevin.jpg')
-User.create(name: 'Dean', location: 'Canada', photo: 'dean.gif')
+
